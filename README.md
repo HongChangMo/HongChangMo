@@ -66,3 +66,10 @@
 ## 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://yourblog.com)](https://yourblog.com)
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongChangMo&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=HongChangMo&theme=tokyonight&show_icons=true">
+</div>
