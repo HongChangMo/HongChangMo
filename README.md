@@ -126,11 +126,3 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyun1995&layout=compact&theme=tokyonight">
-
-<img src="https://github-readme-stats.vercel.app/api?username=taegyun1995&theme=tokyonight&show_icons=true">
-
-</div>
-
