@@ -73,5 +73,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongChangMo&layout=compact&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=HongChangMo&theme=tokyonight&show_icons=true">
+  ![HongChangMo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongChangMo?count_private=true)
 </div>
